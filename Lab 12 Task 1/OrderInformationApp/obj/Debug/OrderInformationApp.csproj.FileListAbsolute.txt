@@ -1,0 +1,15 @@
+C:\Users\233558\source\repos\OrderInformationApp\OrderInformationApp\obj\Debug\OrderInformationApp.csproj.AssemblyReference.cache
+C:\Users\233558\source\repos\OrderInformationApp\OrderInformationApp\obj\Debug\OrderInformationApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\233558\source\repos\OrderInformationApp\OrderInformationApp\obj\Debug\MainWindow.baml
+C:\Users\233558\source\repos\OrderInformationApp\OrderInformationApp\obj\Debug\MainWindow.g.cs
+C:\Users\233558\source\repos\OrderInformationApp\OrderInformationApp\obj\Debug\App.g.cs
+C:\Users\233558\source\repos\OrderInformationApp\OrderInformationApp\obj\Debug\OrderInformationApp_MarkupCompile.cache
+C:\Users\233558\source\repos\OrderInformationApp\OrderInformationApp\obj\Debug\OrderInformationApp.g.resources
+C:\Users\233558\source\repos\OrderInformationApp\OrderInformationApp\obj\Debug\OrderInformationApp.Properties.Resources.resources
+C:\Users\233558\source\repos\OrderInformationApp\OrderInformationApp\obj\Debug\OrderInformationApp.csproj.GenerateResource.cache
+C:\Users\233558\source\repos\OrderInformationApp\OrderInformationApp\obj\Debug\OrderInformationApp.csproj.CoreCompileInputs.cache
+C:\Users\233558\source\repos\OrderInformationApp\OrderInformationApp\bin\Debug\OrderInformationApp.exe.config
+C:\Users\233558\source\repos\OrderInformationApp\OrderInformationApp\bin\Debug\OrderInformationApp.exe
+C:\Users\233558\source\repos\OrderInformationApp\OrderInformationApp\bin\Debug\OrderInformationApp.pdb
+C:\Users\233558\source\repos\OrderInformationApp\OrderInformationApp\obj\Debug\OrderInformationApp.exe
+C:\Users\233558\source\repos\OrderInformationApp\OrderInformationApp\obj\Debug\OrderInformationApp.pdb
