@@ -1,0 +1,15 @@
+C:\Users\233558\source\repos\Lab 12 LINQ\Lab 12 LINQ\obj\Debug\net6.0\Lab 12 LINQ.csproj.AssemblyReference.cache
+C:\Users\233558\source\repos\Lab 12 LINQ\Lab 12 LINQ\obj\Debug\net6.0\Lab 12 LINQ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\233558\source\repos\Lab 12 LINQ\Lab 12 LINQ\obj\Debug\net6.0\Lab 12 LINQ.AssemblyInfoInputs.cache
+C:\Users\233558\source\repos\Lab 12 LINQ\Lab 12 LINQ\obj\Debug\net6.0\Lab 12 LINQ.AssemblyInfo.cs
+C:\Users\233558\source\repos\Lab 12 LINQ\Lab 12 LINQ\obj\Debug\net6.0\Lab 12 LINQ.csproj.CoreCompileInputs.cache
+C:\Users\233558\source\repos\Lab 12 LINQ\Lab 12 LINQ\bin\Debug\net6.0\Lab 12 LINQ.exe
+C:\Users\233558\source\repos\Lab 12 LINQ\Lab 12 LINQ\bin\Debug\net6.0\Lab 12 LINQ.deps.json
+C:\Users\233558\source\repos\Lab 12 LINQ\Lab 12 LINQ\bin\Debug\net6.0\Lab 12 LINQ.runtimeconfig.json
+C:\Users\233558\source\repos\Lab 12 LINQ\Lab 12 LINQ\bin\Debug\net6.0\Lab 12 LINQ.dll
+C:\Users\233558\source\repos\Lab 12 LINQ\Lab 12 LINQ\bin\Debug\net6.0\Lab 12 LINQ.pdb
+C:\Users\233558\source\repos\Lab 12 LINQ\Lab 12 LINQ\obj\Debug\net6.0\Lab 12 LINQ.dll
+C:\Users\233558\source\repos\Lab 12 LINQ\Lab 12 LINQ\obj\Debug\net6.0\refint\Lab 12 LINQ.dll
+C:\Users\233558\source\repos\Lab 12 LINQ\Lab 12 LINQ\obj\Debug\net6.0\Lab 12 LINQ.pdb
+C:\Users\233558\source\repos\Lab 12 LINQ\Lab 12 LINQ\obj\Debug\net6.0\Lab 12 LINQ.genruntimeconfig.cache
+C:\Users\233558\source\repos\Lab 12 LINQ\Lab 12 LINQ\obj\Debug\net6.0\ref\Lab 12 LINQ.dll
